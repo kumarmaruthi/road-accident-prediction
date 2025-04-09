@@ -1,0 +1,6 @@
+Time,Day_of_Week,Age_band_of_driver,Sex_of_driver,Driving_experience,Type_of_vehicle,Road_surface_conditions,Weather_conditions,Type_of_collision,Number_of_vehicles_involved,Number_of_casualties,Cause_of_Accident,Accident_Severity
+08:30,Monday,18-30,Male,1-2yr,Car,Dry,Clear,Rear-end,2,1,Speeding,Minor
+14:15,Wednesday,31-50,Female,5-10yr,Motorcycle,Wet,Rainy,Side collision,3,2,Drunk Driving,Severe
+18:45,Friday,18-30,Male,3-5yr,Truck,Dry,Foggy,Head-on,2,3,Poor Visibility,Fatal
+22:10,Sunday,Above 51,Male,Above 10yr,Bus,Wet,Clear,Rear-end,4,4,Overtaking,Minor
+07:50,Tuesday,18-30,Female,1-2yr,Car,Dry,Cloudy,Side collision,2,1,Speeding,Minor
